@@ -1,1 +1,2 @@
 the second file 
+I just made some changes to this file
